@@ -4,7 +4,7 @@ The aiKdocs project aims to train all docs from CNCF projects with ChatGPT and p
 
 All are starting from a scratch. We welcome all contributors from anywhere.
 
-The process of the initial roadmap is:
+The efforts of the initial roadmap include:
 
 - Collect all doc URls of CNCF projects
 - Build a model to train those docs
