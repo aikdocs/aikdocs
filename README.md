@@ -1,6 +1,6 @@
-# aiKdocs
+# aikdocs
 
-The aiKdocs project aims to build a smart knowledge base by training those docs from CNCF projects with ChatGPT.
+The aikdocs project aims to build a smart knowledge base by training those docs from CNCF projects with ChatGPT.
 
 All are starting from a scratch currently. We welcome all contributors from anywhere.
 
@@ -20,4 +20,4 @@ Any PRs and issues are welcome on GitHub. You can reach the maintainers of this 
 
 ### Code of conduct
 
-Participation in the aiKdocs community is governed by the [aiKdocs Code of Conduct](code-of-conduct.md).
+Participation in the aikdocs community is governed by the [aikdocs Code of Conduct](code-of-conduct.md).
