@@ -1,3 +1,3 @@
-# Kubernetes Community Code of Conduct
+# aiKdocs Community Code of Conduct
 
-Please refer to our [Kubernetes Community Code of Conduct](https://git.k8s.io/community/code-of-conduct.md)
+aiKdocs follows the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md).
