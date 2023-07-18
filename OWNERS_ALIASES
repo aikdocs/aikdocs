@@ -6,9 +6,4 @@ aliases:
   # in the original template repo, we must maintain this list to approve changes
   # to the template itself
   github-admin-team:
-    - cblecker
-    - fejta
-    - idvoretskyi
-    - mrbobbytables
-    - nikhita
-    - spiffxp
+    - windsonsea
