@@ -10,6 +10,8 @@ The efforts of the initial roadmap include:
 1. Build a model to train those docs
 1. Provide a web portal to be easily used by anyone
 
+![cover](./images/aikdocs.jpg)
+
 ## Community, discussion, contribution, and support
 
 Any PRs and issues are welcome on GitHub. You can reach the maintainers of this project at:
