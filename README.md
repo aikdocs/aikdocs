@@ -1,14 +1,14 @@
 # aiKdocs
 
-The aiKdocs project aims to train all docs from CNCF projects with ChatGPT and produces an intellegent knowledge base.
+The aiKdocs project aims to build a smart knowledge base by training those docs from CNCF projects with ChatGPT.
 
-All are starting from a scratch. We welcome all contributors from anywhere.
+All are starting from a scratch currently. We welcome all contributors from anywhere.
 
 The efforts of the initial roadmap include:
 
-- Collect all doc URls of CNCF projects
-- Build a model to train those docs
-- Provide a web portal to be easily used by anyone
+1. Create a [docs-pool](./pool/README.md) from all docs of CNCF projects
+1. Build a model to train those docs
+1. Provide a web portal to be easily used by anyone
 
 ## Community, discussion, contribution, and support
 
@@ -19,6 +19,3 @@ Any PRs and issues are welcome on GitHub. You can reach the maintainers of this 
 ### Code of conduct
 
 Participation in the aiKdocs community is governed by the [aiKdocs Code of Conduct](code-of-conduct.md).
-
-[owners]: https://git.k8s.io/community/contributors/guide/owners.md
-[Creative Commons 4.0]: https://git.k8s.io/website/LICENSE
