@@ -14,6 +14,7 @@ This page lists all docs from CNCF graduated projects.
 | Docs  | containerd | https://github.com/containerd/containerd/tree/main/docs |                                        |
 | Docs  | CoreDNS    | https://coredns.io/manual/toc/                          |                                        |
 | Blog  | CoreDNS    | https://coredns.io/blog/                                |                                        |
+| Website | CRI-O    | https://cri-o.io/                                       |                                        |
 | Docs  | envoy      | https://www.envoyproxy.io/docs                          |                                        |
 | Blog  | envoy      | https://blog.envoyproxy.io/                             |                                        |
 | Docs  | etcd       | https://etcd.io/docs/                                   |                                        |

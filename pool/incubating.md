@@ -18,7 +18,6 @@ This page lists all docs from CNCF incubating projects.
 | Docs    | Contour            | https://projectcontour.io/docs/                              |                           |
 | Blog    | Contour            | https://projectcontour.io/blog/                              |                           |
 | Docs    | Cortex             | https://cortexmetrics.io/docs/                               |                           |
-| Website | CRI-O              | https://cri-o.io/                                            |                           |
 | Docs    | Crossplane         | https://docs.crossplane.io/                                  |                           |
 | Blog    | Crossplane         | https://blog.crossplane.io/                                  |                           |
 | Website | CubeFS             | https://cubefs.io/                                           |                           |
