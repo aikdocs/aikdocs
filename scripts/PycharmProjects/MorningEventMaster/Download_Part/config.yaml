@@ -1,0 +1,17 @@
+GetVideos:
+  username: USERNAME
+  password: PASSWORD
+  basedir: BASEDIR
+
+AudioToText:
+  accessId: ACCESS_ID
+  accessSecret: ACCESS_SECRET
+  appKey: APP_KEY
+  basepath: BASE_PATH
+
+AudioTextRefinement:
+  apiKey: API_KEY
+  basepath: BASE_PATH
+
+ChangeEncoding:
+  basedir: BASE_DIR
