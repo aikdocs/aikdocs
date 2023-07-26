@@ -2,6 +2,8 @@
 
 This page lists all docs from CNCF graduated projects.
 
+> If the project has an opened markdown source: &check;, if not &square;
+
 | Items | Projects   | en URL                                                  | zh URL                                 |
 | ----- | ---------- | ------------------------------------------------------- | -------------------------------------- |
 | Docs  | K8s        | https://kubernetes.io/docs/home/                        | https://kubernetes.io/zh-cn/docs/home/ |
@@ -37,3 +39,4 @@ This page lists all docs from CNCF graduated projects.
 | Blog  | Rook-ceph  | https://blog.rook.io/                                   |                                        |
 | Docs  | Spiffe     | https://spiffe.io/docs/latest/spiffe-about/overview/    |                                        |
 | Docs  | Spire      | https://spiffe.io/docs/latest/spire-about/              |                                        |
+| Docs | Glossary | https://glossary.cncf.io/ | |
