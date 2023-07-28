@@ -24,4 +24,3 @@ This page lists all docs from CNCF sandbox projects.
 | Website | Curve                   | https://www.opencurve.io/Curve/HOME                          |                                     |
 | Website | Devfile                 | https://devfile.io/                                          |                                     |
 | Website | DevSpace                | https://www.devspace.sh/                                     |                                     |
-
