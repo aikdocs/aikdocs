@@ -32,21 +32,21 @@ This section lists our training plan of CNCF docs.
 | ------- | ------------- | -------- |
 | Docs    | K8s           | &check;  |
 | Blog    | K8s           | &check;  |
-| Docs    | Istio         |          |
-| Blog    | Istio         |          |
-| News    | Istio         |          |
-| Docs    | Argo          |          |
-| Blog    | Argo          |          |
-| Docs    | containerd    |          |
-| Docs    | CoreDNS       |          |
-| Blog    | CoreDNS       |          |
+| Docs    | Istio         | &check;  |
+| Blog    | Istio         | &check;  |
+| News    | Istio         | &check;  |
+| Docs    | Argo          | &check;  |
+| Blog    | Argo          | &check;  |
+| Docs    | containerd    | &check;  |
+| Docs    | CoreDNS       | &check;  |
+| Blog    | CoreDNS       | &check;  |
 | Website | CRI-O         |          |
 | Docs    | envoy         |          |
 | Blog    | envoy         |          |
-| Docs    | etcd          |          |
-| Blog    | etcd          |          |
-| Docs    | fluentd       |          |
-| Blog    | fluentd       |          |
+| Docs    | etcd          | &check;  |
+| Blog    | etcd          | &check;  |
+| Docs    | fluentd       | &check;  |
+| Blog    | fluentd       | &check;  |
 | Docs    | flux          |          |
 | Blog    | flux          |          |
 | Docs    | Harbor        |          |
