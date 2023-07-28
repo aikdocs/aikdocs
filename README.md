@@ -24,9 +24,18 @@ Participation in the aikdocs community is governed by the [aikdocs Code of Condu
 
 ## Roadmap
 
-This section lists our training plan of CNCF docs.
+aikdocs has a roadmap as follows:
+
+- [ ] Training those docs from CNCF graduated, incubating, and sandbox projects
+- [ ] Improve the dataset (/dataset/*.csv) after the initial training
+- [ ] Set up a mechanism to follow up the daily update to each repo
+- [ ] Find a more strong and easy-to-use ChatGPT model than current FastGPT, which is relatively weak and cannot provide an English UI
+- [ ] Use a short URL rather than https://fastgpt.daocloud.io/chat/share?shareId=64c07d3839dc3432b7bde5a2
+- [ ] Build a user-friendly UI with useful prompt options
 
 ### CNCF Graduated
+
+Most graduated projects provide markdown files, so it's relatively easy to perform ChatGPT learning and training.
 
 | Items   | Projects      | Progress |
 | ------- | ------------- | -------- |
@@ -40,30 +49,30 @@ This section lists our training plan of CNCF docs.
 | Docs    | containerd    | &check;  |
 | Docs    | CoreDNS       | &check;  |
 | Blog    | CoreDNS       | &check;  |
-| Website | CRI-O         |          |
-| Docs    | envoy         |          |
-| Blog    | envoy         |          |
+| Website | CRI-O         | &check;  |
+| Docs    | envoy         | &check;  |
+| Blog    | envoy         | &check;  |
 | Docs    | etcd          | &check;  |
 | Blog    | etcd          | &check;  |
 | Docs    | fluentd       | &check;  |
 | Blog    | fluentd       | &check;  |
-| Docs    | flux          |          |
-| Blog    | flux          |          |
-| Docs    | Harbor        |          |
-| Blog    | Harbor        |          |
-| Docs    | Helm          |          |
-| Blog    | Helm          |          |
-| Docs    | Jaeger        |          |
-| Blog    | Jaeger        |          |
-| Docs    | Linkerd       |          |
-| Blog    | Linkerd       |          |
-| Docs    | Prometheus    |          |
-| Blog    | Prometheus    |          |
-| Docs    | Rook-ceph     |          |
-| Blog    | Rook-ceph     |          |
-| Docs    | Spiffe        |          |
-| Docs    | Spire         |          |
-| Docs    | CNCF Glossary |          |
+| Docs    | flux          | &check;  |
+| Blog    | flux          | &check;  |
+| Docs    | Harbor        | &check;  |
+| Blog    | Harbor        | &check;  |
+| Docs    | Helm          | &check;  |
+| Blog    | Helm          | &check;  |
+| Docs    | Jaeger        | &check;  |
+| Blog    | Jaeger        | &check;  |
+| Docs    | Linkerd       | &check;  |
+| Blog    | Linkerd       | &check;  |
+| Docs    | Prometheus    | &check;  |
+| Blog    | Prometheus    | &check;  |
+| Docs    | Rook-ceph     | &check;  |
+| Blog    | Rook-ceph     | &check;  |
+| Docs    | Spiffe        | &check;  |
+| Docs    | Spire         | &check;  |
+| Docs    | CNCF Glossary | &check;  |
 
 ### CNCF Incubation
 
